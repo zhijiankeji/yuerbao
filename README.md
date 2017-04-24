@@ -16,12 +16,12 @@
 10、儿歌故事
 11、教师考勤
 12、校园活动
-
-#后台演示地址
+...........
+# 后台演示地址
 http://test.zhijiankeji.com.cn:8080/admin
 用户名：admin  密码：12345678
 
-#APP下载地址
+# APP下载地址
 http://m.zhijiankeji.com.cn/
 
 # 扫描二维码下载
