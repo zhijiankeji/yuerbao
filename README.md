@@ -18,5 +18,8 @@
 12、校园活动
 
 #后台演示地址
-http://test.zhijiankleji.com.cn:8080/admin
+http://test.zhijiankeji.com.cn:8080/admin
 用户名：admin  密码：12345678
+
+#APP下载地址
+http://m.zhijiankeji.com.cn/
