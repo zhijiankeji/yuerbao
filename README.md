@@ -23,3 +23,5 @@ http://test.zhijiankeji.com.cn:8080/admin
 
 #APP下载地址
 http://m.zhijiankeji.com.cn/
+
+# 扫描二维码下载
