@@ -25,3 +25,4 @@ http://test.zhijiankeji.com.cn:8080/admin
 http://m.zhijiankeji.com.cn/
 
 # 扫描二维码下载
+<img src = 'http://img.zhijiankeji.com.cn/images/1493024995.png'>
